@@ -2,6 +2,6 @@
    "name":"HEAVY Legendary Punks Top Hat",
    "description":"Cryptopunks are the Legendary OG, setting the standard for all future 1/1/10k projects. Punk traits have been emulated ever since, so we pay homage by setting all HEAVY MetaHat prices as a derivative of the collection hat trait counts. (115 Punks Top Hats, 65 Apes Trippy Captain's Hats, 356 Avastars Male Top Hats.) For the Legendary Punks Top Hat, we added a stripe of Legendary Gold to the hat’s turned-down brim, while keeping the basic red hatband - so it’s visibly apparent from above and below that this is a Legendary Punks item. You don’t have to be a Cryptopunk owner to buy a Punk MetaHat for use in the Metaverse, but now you can look like one! ATTENTION PUNK OWNERS !! Want to make your hat even more Punk? Every editioned Punk MetaHat may be redeemed with an additional 0.25 ETH for a custom 1/1 liner hand-designed by HEAVY featuring your own Punk and number embedded in the left pink & white stripe. You MUST have at least one Cryptopunk in your submitting wallet to redeem for the custom liner (but Top Hat Punk not required - get any Punk in the liner!) The editioned hat token will be burned and you will receive a 1/1 token for your unique punk hat.",
    "external_link":"http://www.heavy.io/metahats",
-   "image":"https://ipfs.io/ipfs/QmT9gr7B1WXPu3SKmnwfGzrMBBeLs9f8wW9GZKjfF3yktX?filename=thumbnail.png",
-   "animation_url":"https://ipfs.io/ipfs/Qmc8ZaFdZMpT4okqk9Pzp4xM1wNtsbuvNYd67w6uVFebFb?filename=PunksLegendary8870.gltf"
+   "image":"ipfs://QmT9gr7B1WXPu3SKmnwfGzrMBBeLs9f8wW9GZKjfF3yktX",
+   "animation_url":"ipfs://Qmc8ZaFdZMpT4okqk9Pzp4xM1wNtsbuvNYd67w6uVFebFb"
 }
