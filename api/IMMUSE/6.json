@@ -1,13 +1,13 @@
 {
-   "name":"IMMUSE CONTENT TOKEN",
-   "description":"A user generated variant of an Immuse NFT.",
+   "name":"IMMUSE ACCESS TOKEN",
+   "description":"Customise and mint your own audio visual augemented reality experience, designed by your favourite artists, through the Immuse app",
    "external_link":"http://www.heavy.io/metahats",
-   "image":"ipfs://QmUPPJ5aJ4u2Qeh47BxWpRfYkVH5L98ZyrjfVmmGDPoM2U",
+   "image":"ipfs://QmbQSqZFiz4ZEaW2hX93y1LMWBUZhofbPNP274saSJRkDy",
    "animation_url":"",
    "attributes": [
         {
             "trait_type": "IMMUSE",
-            "value": "CONTENT TOKEN"
+            "value": "ACCESS TOKEN"
         }
     ]
 }
